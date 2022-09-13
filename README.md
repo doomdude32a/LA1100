@@ -4,7 +4,7 @@ Angel Angelov
 
 ## Einleitung
 
-ICh habe ein Zufallszahl Spiel selber programiert.
+Ich habe ein Zufallszahl Spiel programiert, indem man Zahlen von 1 bis 100 generiert. 
 
 ## Was habe ich gelernt?
 
