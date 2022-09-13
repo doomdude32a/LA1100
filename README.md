@@ -1,4 +1,4 @@
-# Lernberichtt
+# Lernbericht
 # Lern-Bericht
 Angel Angelov
 
